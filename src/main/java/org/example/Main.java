@@ -24,7 +24,7 @@ public class Main {
 
             // ---------------------------------------------------------
             // 3. CONSULTAS HQL AVANZADAS (Requisito del ejercicio)
-            // ---------------------------------------------------------
+            // --------------------------------------------------------
             try (Session session = HibernateUtil.getSessionFactory().openSession()) {
 
                 System.out.println("\n=== EJECUTANDO CONSULTAS HQL AVANZADAS ===");

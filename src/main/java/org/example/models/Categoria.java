@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Entidad que representa una Categoría literaria.
- * Participa en una relación Muchos a Muchos (N:N) con Libro.
+ * Participa en una relación Muchos a Muchos (N:N) con Libro
  */
 @Entity
 @Table(name = "categorias")

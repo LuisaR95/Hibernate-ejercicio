@@ -57,7 +57,7 @@ public class DatabaseSeeder {
             soledad.getCategorias().add(clasico);
             session.persist(soledad);
 
-            // Autor 4
+            // Autor
             Autor verne = new Autor("Julio Verne", "Francesa");
             session.persist(verne);
 

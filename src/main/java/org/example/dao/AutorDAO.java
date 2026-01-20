@@ -7,7 +7,7 @@ import org.hibernate.Transaction;
 import java.util.List;
 
 /**
- * DAO para la gestión de Autores.
+ * DAO para la getión de Autores.
  * Implementa operaciones CRUD y consultas HQL.
  */
 public class AutorDAO {

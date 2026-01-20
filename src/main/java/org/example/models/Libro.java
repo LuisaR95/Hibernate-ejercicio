@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Entidad que representa un Libro.
  * Tiene una relación Muchos a Uno (N:1) con Autor
- * y una relación Muchos a Muchos (N:N) con Categoria.
+ * y una relación Muchos a Muchos (N:N) con Categoria
  */
 @Entity
 @Table(name = "libros")

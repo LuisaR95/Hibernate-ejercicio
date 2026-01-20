@@ -33,7 +33,7 @@ public class AutorService {
     }
 
     /**
-     * Crea un autor asegurándose de que el nombre no sea nulo.
+     * Crea un autor asegurándose de que el nombre no sea nulo
      */
     public void registrarAutor(Autor autor) {
         if (autor.getNombre() == null || autor.getNombre().trim().isEmpty()) {

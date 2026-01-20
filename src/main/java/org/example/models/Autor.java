@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Entidad que representa a un Autor en el sistema.
- * Mantiene una relación de Uno a Muchos (1:N) con la entidad Libro.
+ * Mantiene una relación de Uno a Mucho (1:N) con la entidad Libro.
  */
 @Entity
 @Table(name = "autores")

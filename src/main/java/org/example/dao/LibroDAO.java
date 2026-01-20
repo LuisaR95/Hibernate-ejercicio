@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * DAO para la gestión de Libros.
- * Incluye consultas HQL avanzadas con filtros y agregaciones.
+ * Incluye consultas HQL avnzadas con filtros y agregaciones.
  */
 public class LibroDAO {
 
